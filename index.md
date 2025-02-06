@@ -8,7 +8,7 @@ I am a M.S. in AI student at Boston University. Prior to joining BU, I received 
 
 ## Research Interests
 
-- **Machine Learning:** Natural Language Processing, Multimodal Learning
+- **Machine Learning:** Natural Language Processing, Multimodal Learning, Representation Learning
 - **Data Mining:** Information Retrieval, Recommender Systems
 
 ## News
