@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a M.S. in AI student at Boston University. Prior to joining BU, I received my Bachelor's Degree in Computer Science at Xiamen University, where I was privilaged to be advised by Prof. Chen Lin. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** Natural Language Processing, Multimodal Learning
+- **Data Mining:** Information Retrieval, Recommender Systems
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2024]** Starting my Master's study at Boston University.
+- **[Jun. 2024]** Received my Bachelor's Degree in Computer Science at Xiamen University.
+- **[Jun. 2024]** Defended my thesis: Hypergraph Enhanced Contrastive Learning in Recommender Systems.
 
 {% include_relative _includes/publications.md %}
 
