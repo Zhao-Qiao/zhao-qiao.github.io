@@ -15,8 +15,8 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/citations?user=s9DG8OQAAAAJ&hl=en&authuser=1
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/Zhao-Qiao
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+# linkedin: https://www.linkedin.com/
+# twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
