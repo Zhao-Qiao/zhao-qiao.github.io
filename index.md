@@ -19,4 +19,4 @@ I am a M.S. in AI student at Boston University. Prior to joining BU, I received 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
