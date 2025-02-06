@@ -16,7 +16,7 @@ main:
     conference: International Conference on Database Systems for Advanced Applications <strong>(DASFAA)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/XMUDM/GENET
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: To Appear
+    notes: To Appear
     image: ./assets/img/teaser_example.png
