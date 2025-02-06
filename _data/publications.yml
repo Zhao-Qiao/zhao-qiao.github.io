@@ -11,7 +11,7 @@ main:
     notes: Poster
 
   - title: GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training
-    authors: Yang Li, <strong>Qiao Zhao<\strong>, Chen Lin*, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su
+    authors: Yang Li, <strong>Qiao Zhao</strong>, Chen Lin*, Zhenjie Zhang, Xiaomin Zhu, Jinsong Su
     conference_short: DASFAA
     conference: International Conference on Database Systems for Advanced Applications <strong>(DASFAA)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
