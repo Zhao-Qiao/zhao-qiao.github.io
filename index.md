@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a M.S. in AI student at Boston University. Prior to joining BU, I received my Bachelor's Degree in Computer Science at Xiamen University, where I was privilaged to be advised by Prof. Chen Lin, and worked with Yang Li.
+I am a M.S. in AI student at Boston University. Prior to joining BU, I received my Bachelor's Degree in Computer Science at Xiamen University, where I was privileged to be advised by Prof. Chen Lin, and worked with Yang Li.
 
 ## Research Interests
 
