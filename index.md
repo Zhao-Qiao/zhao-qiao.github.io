@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I was a M.S. in AI student at Boston University, working with Prof. Najoung Kim and Prof. Sebastian Schuster. Prior to joining BU, I received my Bachelor's Degree in Computer Science at Xiamen University, where I was privileged to be advised by Prof. Chen Lin, and worked with Yang Li. Currently I am working on the evaluation of LLMs and robust multimodal learning.
+I am a 1st-year PhD in CS student at the University of Macau, supervised by Prof. Hou Pong Chan. Prior to this, I was an M.S. in AI student at Boston University, working with Prof. Najoung Kim and Prof. Sebastian Schuster. I received my Bachelor's Degree in Computer Science at Xiamen University, where I was privileged to be advised by Prof. Chen Lin, and worked with Yang Li. Currently, I am working on the evaluation and interpretation of models.
 
 ## Research Interests
 
-- **Machine Learning:** Natural Language Processing, Multimodal Learning, Representation Learning
+- **Machine Learning:** Natural Language Processing, Interpretability, Trustworthy ML
 - **Data Mining:** Information Retrieval, Recommender Systems
 
 ## News
