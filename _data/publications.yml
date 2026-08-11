@@ -20,3 +20,13 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: To Appear
     # image: ./assets/img/teaser_example.png
+
+    - title: "Do Language Models Track Entities Across State Changes"
+    authors: Zilu Tang$^*$ and <strong>Qiao Zhao$^*$</strong> and Gabriel Franco and Derry Tanti Wijaya and Aaron Mueller and Sebastian Schuster and Najoung Kim
+    conference_short: ICML
+    conference: Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/XMUDM/FETTLE
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    notes: Poster
