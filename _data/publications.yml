@@ -22,7 +22,7 @@ main:
     # image: ./assets/img/teaser_example.png
 
   - title: "Do Language Models Track Entities Across State Changes"
-    authors: Zilu Tang$^*$ and <strong>Qiao Zhao$^*$</strong> and Gabriel Franco and Derry Tanti Wijaya and Aaron Mueller and Sebastian Schuster and Najoung Kim
+    authors: Zilu Tang<sup>*</sup> and <strong>Qiao Zhao<sup>*</sup>/strong> and Gabriel Franco and Derry Tanti Wijaya and Aaron Mueller and Sebastian Schuster and Najoung Kim
     conference_short: ICML
     conference: Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
