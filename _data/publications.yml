@@ -1,4 +1,13 @@
 main:
+  - title: "Do Language Models Track Entities Across State Changes"
+    authors: Zilu Tang<sup>*</sup> and <strong>Qiao Zhao<sup>*</sup></strong> and Gabriel Franco and Derry Tanti Wijaya and Aaron Mueller and Sebastian Schuster and Najoung Kim
+    conference_short: ICML
+    conference: In Proceedings of the Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/XMUDM/FETTLE
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    notes: Poster
 
   - title: "Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems"
     authors: Yang Li, <strong>Qi’ao Zhao</strong>, Chen Lin*, Jinsong Su, Zhilin Zhang.
@@ -18,15 +27,7 @@ main:
     code: https://github.com/XMUDM/GENET
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: To Appear
+    # notes: To Appear
     # image: ./assets/img/teaser_example.png
 
-  - title: "Do Language Models Track Entities Across State Changes"
-    authors: Zilu Tang<sup>*</sup> and <strong>Qiao Zhao<sup>*</sup></strong> and Gabriel Franco and Derry Tanti Wijaya and Aaron Mueller and Sebastian Schuster and Najoung Kim
-    conference_short: ICML
-    conference: Forty-third International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/XMUDM/FETTLE
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    notes: Poster
+
