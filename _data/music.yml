@@ -1,15 +1,103 @@
 # Add new entries at the TOP (newest first).
 # Required: title, artist. Optional: type (album), year, cover, note.
-# Quote strings with double quotes; use spaces, not tabs.
+# Quote strings with double quotes (escape inner quotes as \"); use spaces, not tabs.
 
-# TODO: placeholder single (replace or delete)
-- title: "TODO song title"
-  artist: "TODO artist"
-
-# TODO: placeholder album (replace or delete)
-- title: "TODO album title"
-  artist: "TODO artist"
+# David Bowie (favorites first)
+- title: "Space Oddity"
+  artist: "David Bowie"
   type: album
-  year: 2019
-  # cover: /assets/img/music/xxx.jpg
-  note: "TODO optional note."
+  year: 1969
+
+- title: "The Rise and Fall of Ziggy Stardust and the Spiders from Mars"
+  artist: "David Bowie"
+  type: album
+  year: 1972
+
+- title: "Blackstar"
+  artist: "David Bowie"
+  type: album
+  year: 2016
+
+# also love
+- title: "Low"
+  artist: "David Bowie"
+  type: album
+  year: 1977
+
+- title: "\"Heroes\""
+  artist: "David Bowie"
+  type: album
+  year: 1977
+
+- title: "Lodger"
+  artist: "David Bowie"
+  type: album
+  year: 1979
+
+- title: "Scary Monsters (and Super Creeps)"
+  artist: "David Bowie"
+  type: album
+  year: 1980
+
+# Yes
+- title: "Fragile"
+  artist: "Yes"
+  type: album
+  year: 1971
+
+- title: "Close to the Edge"
+  artist: "Yes"
+  type: album
+  year: 1972
+
+- title: "Fly from Here"
+  artist: "Yes"
+  type: album
+  year: 2011
+
+# King Crimson (most listened first, in release order)
+- title: "In the Court of the Crimson King"
+  artist: "King Crimson"
+  type: album
+  year: 1969
+
+- title: "Lizard"
+  artist: "King Crimson"
+  type: album
+  year: 1970
+
+- title: "Islands"
+  artist: "King Crimson"
+  type: album
+  year: 1971
+
+- title: "Larks' Tongues in Aspic"
+  artist: "King Crimson"
+  type: album
+  year: 1973
+
+- title: "Starless and Bible Black"
+  artist: "King Crimson"
+  type: album
+  year: 1974
+
+- title: "Red"
+  artist: "King Crimson"
+  type: album
+  year: 1974
+
+- title: "Discipline"
+  artist: "King Crimson"
+  type: album
+  year: 1981
+
+# listened to less
+- title: "THRAK"
+  artist: "King Crimson"
+  type: album
+  year: 1995
+
+- title: "The ConstruKCtion of Light"
+  artist: "King Crimson"
+  type: album
+  year: 2000
