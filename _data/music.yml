@@ -1,0 +1,15 @@
+# Add new entries at the TOP (newest first).
+# Required: title, artist. Optional: type (album), year, cover, note.
+# Quote strings with double quotes; use spaces, not tabs.
+
+# TODO: placeholder single (replace or delete)
+- title: "TODO song title"
+  artist: "TODO artist"
+
+# TODO: placeholder album (replace or delete)
+- title: "TODO album title"
+  artist: "TODO artist"
+  type: album
+  year: 2019
+  # cover: /assets/img/music/xxx.jpg
+  note: "TODO optional note."

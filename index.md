@@ -23,4 +23,7 @@ I am a 1st-year PhD in CS student at the University of Macau, supervised by Prof
 ## Blogs & Writing Samples
 I plan to maintain a WeChat official account for non-research & usually alcohol-affected blog posts.
 
+## Music
+My [music recommendations](music.html).
+
 
