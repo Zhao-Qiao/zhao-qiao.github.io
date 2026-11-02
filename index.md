@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a 1st-year PhD in CS student at the University of Macau, supervised by Prof. Hou Pong Chan. Prior to this, I was an M.S. in AI student at Boston University, working with Prof. Najoung Kim and Prof. Sebastian Schuster. I received my Bachelor's Degree in Computer Science at Xiamen University, where I was privileged to be advised by Prof. Chen Lin. Currently, I am working on understanding and interpreting (vision) language models. I'm especially interested in how language backbones process and leverage heterogeneous multimodal inputs, and how they perform certain capabilities.
+I am a 1st-year PhD in CS student at the University of Macau, supervised by Prof. Hou Pong Chan. Prior to this, I was an M.S. in AI student at Boston University, working with Prof. Najoung Kim and Prof. Sebastian Schuster. I received my Bachelor's Degree in Computer Science at Xiamen University, under the supervision of Prof. Chen Lin. 
+
+Currently, I am working on understanding and interpreting (vision) language models. I'm especially interested in how language backbones process and leverage heterogeneous multimodal inputs, and how they perform certain capabilities.
 ## Research Interests
 
 - **Interpretability:** Natural Language Processing, Mechanistic Interpretability, (Multimodal) Language Models
@@ -21,7 +23,7 @@ I am a 1st-year PhD in CS student at the University of Macau, supervised by Prof
 {% include_relative _includes/publications.md %}
 
 ## Blogs & Writing Samples
-I plan to maintain a WeChat official account for non-research & usually alcohol-affected blog posts.
+I plan to maintain a WeChat official account for non-research & usually post-drinking blog posts.
 
 ## Music
 My [music recommendations](music.html).
